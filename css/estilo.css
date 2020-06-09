@@ -1,0 +1,49 @@
+.teste{
+    background-color: brown;
+    padding: 10px;
+    height: 40px;   
+    width: 100px;
+    display: block;
+    float: right;
+}
+
+.menu a {
+        background-color: cadetblue;
+        border: 2px #333 solid;
+        color: #333;
+        display: inline-block;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        width: 150px;
+
+
+}
+
+.menu a:hover{
+    background-color: #333;
+    border-color: #ccc;
+    color: darkgrey;
+}
+
+.img1 {
+    float: left;
+    margin: 20px;
+}
+
+.img2{
+    float: right;
+    margin: 20px;
+}
+
+
+.clear{
+    clear: both;
+}
+
+
+
+img{
+    width: 300px;
+
+}
